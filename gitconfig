@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = msynthese@gmail.com
+	name = megret franck
